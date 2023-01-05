@@ -1,8 +1,8 @@
 资料整理
 
-                                            by wuzengding 2023/1/4
-
 ## 信封病毒粒子的结构以及进入体内的机制--以SARS-CoV-2为例
+                                        by wuzengding 2023/1/4
+****
 
 ### SARS-CoV-2的基因组结构及对应编码的蛋白
 
@@ -10,15 +10,15 @@ SARS-COV-2的基因组（genome）是一个完整的postive-sense 的单链RNA�
 
 其中**NSPs蛋白**由基因组5‘-end的大约2/3区域编码。有两个开放阅读框Orf1a 和Orf1b，有意思的是Orf1b是由于-1 Ribosomal Frameshift导致的（关于Ribosomal Frameshift，见参考文献【2】）
 
-![](file://C:\Users\ding\AppData\Roaming\marktext\images\2023-01-05-10-46-03-image.png?msec=1672928528588)
+![](https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-10-46-03-image.png)
 
 <font size=2>图1a 是 SARS-CoV-2的完整基因组结构图，5’-端是是编码NSPs的Orf1a/Orf1ab，3‘-端 是编码结构蛋白; 图1b是ribosomal framshift元件的二级结构示意图；图1c 是Orf1a 和NSPs的两个pp1a和pp1ab蛋白结构示意图</font>
 
 其中**结构性蛋白**分为核壳蛋白（nucleocapsid: N）、刺突蛋白（spike: S）、膜蛋白（membrance：M）、信封蛋白（envelope：E）
 
-![](file://C:\Users\ding\AppData\Roaming\marktext\images\2023-01-05-10-45-41-image.png?msec=1672928528581)
+![](https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-10-45-41-image.png?msec=1672928528581)
 
-![](file:///C:/Users/ding/AppData/Roaming/marktext/images/2023-01-05-10-44-11-image.png?msec=1672928528580)
+![](https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-10-44-11-image.png?msec=1672928528580)
 
 <font size=2> 图2. 结构性蛋白的示意图。结构蛋白大约在基因组的3’-端1/3的位置编码。除了S/E/M/N蛋白，还编码了辅助蛋白（绿色部分）</font>
 
@@ -26,12 +26,12 @@ SARS-COV-2的基因组（genome）是一个完整的postive-sense 的单链RNA�
 
 施一公2020年解析了SARS-CoV-2病毒粒子的结构【3】，获得了5A级别的分辨率。病毒粒子直径在60-90nm之间。在Cryo-EM下，病毒粒子的Spike蛋白和RNPs是最显著的特征。
 
-![](file:///C:/Users/ding/AppData/Roaming/marktext/images/2023-01-05-11-11-07-image.png?msec=1672928528597)
+![](https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-11-11-07-image.png?msec=1672928528597)
 
 将病毒粒子简化为图4模型【4】。可以看到病毒粒子由四种结构蛋白组成，分别是Spike糖蛋白、核蛋白复合物（RNPs）、信封蛋白、膜蛋白组成。其中RNPs充满了病毒粒子的内部，Spike蛋白分布在病毒粒子的表面，信封蛋白和膜蛋白包裹了RNPs并且为Spike蛋白提供了锚定支架。
 
-![](file://C:\Users\ding\AppData\Roaming\marktext\images\2023-01-05-11-16-26-image.png?msec=1672928528588)
-
+![]((https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-11-16-26-image.png?msec=1672928528588)
+****
 ### SARS-CoV-2的感染生命周期
 
 第一步：SARS-CoV-2病毒在人体受体细胞表面的TMPRSS2的辅助下，通过刺突蛋白Spike结合到受体细胞表面的ACE2受体。一旦Spike蛋白结合ACE2受体后，病毒粒子的Spike蛋白发生构象改变，进一步驱动病毒粒子和受体细胞进行融合；
@@ -53,8 +53,10 @@ SARS-COV-2的基因组（genome）是一个完整的postive-sense 的单链RNA�
 第九步：新的成熟的SARS-CoV-2病毒粒子跨过宿主细胞膜，被释放到宿主细胞外，然后进一步寻找新的宿主细胞来感染。并重新计入第一步。下图4是SARS-CoV
 
 ![The infection cycle of SARSCoV2](https://www.invivogen.com/sites/default/files/pictures/01-covid-spotlight-invivogen.png)
-
+****
 ### SARS-CoV-2的Spike蛋白结构
+整理中
+****
 
 ### 参考文献
 
@@ -65,5 +67,3 @@ SARS-COV-2的基因组（genome）是一个完整的postive-sense 的单链RNA�
 *3.https://doi.org/10.1016/j.cell.2020.09.018*
 
 *4.[COVID-19 | Infection Cycle | InvivoGen](https://www.invivogen.com/spotlight-covid-19-infection)*
-
-*5.*
