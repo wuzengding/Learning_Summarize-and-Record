@@ -1,7 +1,7 @@
 资料整理
 
 ## 信封病毒粒子的结构以及进入体内的机制--以SARS-CoV-2为例
-                                        by wuzengding 2023/1/4
+                                      by wuzengding 2023/1/4
 ****
 
 ### SARS-CoV-2的基因组结构及对应编码的蛋白
@@ -30,7 +30,7 @@ SARS-COV-2的基因组（genome）是一个完整的postive-sense 的单链RNA�
 
 将病毒粒子简化为图4模型【4】。可以看到病毒粒子由四种结构蛋白组成，分别是Spike糖蛋白、核蛋白复合物（RNPs）、信封蛋白、膜蛋白组成。其中RNPs充满了病毒粒子的内部，Spike蛋白分布在病毒粒子的表面，信封蛋白和膜蛋白包裹了RNPs并且为Spike蛋白提供了锚定支架。
 
-![]((https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-11-16-26-image.png?msec=1672928528588)
+![](https://github.com/wuzengding/images_for_md/blob/main/2023-01-05-11-16-26-image.png?msec=1672928528588)
 ****
 ### SARS-CoV-2的感染生命周期
 
